@@ -1,0 +1,27 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Judul",
+      "value": "title",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

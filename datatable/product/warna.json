@@ -1,0 +1,32 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Warna",
+      "value": "code_rgb",
+      "align": "left"
+    },
+    {
+      "text": "Nama",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Nama Singkat",
+      "value": "nama_singkat",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

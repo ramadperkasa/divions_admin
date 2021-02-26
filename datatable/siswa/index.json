@@ -1,0 +1,37 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "NIS",
+      "value": "nis",
+      "align": "left"
+    },
+    {
+      "text": "Nama Siswa",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Kelas",
+      "value": "kelas",
+      "align": "left"
+    },
+    {
+      "text": "Tahun Ajaran",
+      "value": "tahun_ajaran",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

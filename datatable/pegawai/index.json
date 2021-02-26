@@ -1,0 +1,32 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Foto",
+      "value": "image_id",
+      "align": "left"
+    },
+    {
+      "text": "Nama Pegawai",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

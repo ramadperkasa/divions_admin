@@ -1,0 +1,37 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Tanggal",
+      "value": "tgl",
+      "align": "left"
+    },
+    {
+      "text": "Atas Nama",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Jenis",
+      "value": "type",
+      "align": "left"
+    },
+    {
+      "text": "Rekening",
+      "value": "rekening_id",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

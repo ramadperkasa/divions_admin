@@ -1,0 +1,39 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Foto",
+      "width": 90,
+      "value": "image",
+      "align": "center",
+      "sortable": false
+    },
+    {
+      "text": "Nama Foto",
+      "value": "description",
+      "align": "left"
+    },
+    {
+      "text": "Tipe",
+      "value": "type",
+      "align": "left"
+    },
+    {
+      "text": "Folder",
+      "value": "folder_id",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

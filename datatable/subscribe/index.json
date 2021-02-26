@@ -1,0 +1,26 @@
+{
+  "headers": [{
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Email",
+      "value": "email",
+      "align": "left"
+    },
+    {
+      "text": "Disembunyikan",
+      "value": "ishide",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

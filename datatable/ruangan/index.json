@@ -1,0 +1,32 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Nama Ruangan",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Status",
+      "value": "status",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Nama Rekening",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Bank",
+      "value": "bank_id",
+      "align": "left"
+    },
+    {
+      "text": "Nomor Rekening",
+      "value": "rekening_no",
+      "align": "left"
+    },
+    {
+      "text": "Cabang",
+      "value": "cabang",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

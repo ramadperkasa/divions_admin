@@ -1,0 +1,32 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Nama Sub Kategori",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Nama Kategori",
+      "value": "parent_id",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

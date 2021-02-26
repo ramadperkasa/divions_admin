@@ -1,0 +1,42 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Foto Produk",
+      "value": "cover_image",
+      "align": "left"
+    },
+    {
+      "text": "Kode Produk",
+      "value": "code_product",
+      "align": "left"
+    },
+    {
+      "text": "Judul Produk",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Sub Judul Produk",
+      "value": "subtitle",
+      "align": "left"
+    },
+    {
+      "text": "Kategori",
+      "value": "produk_kategori_id",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

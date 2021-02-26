@@ -1,0 +1,44 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Cover",
+      "value": "image",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Judul",
+      "value": "judul",
+      "align": "left"
+    },
+    {
+      "text": "Tanggal Publish",
+      "value": "tgl_publish",
+      "align": "left"
+    },
+
+    {
+      "text": "Kategori",
+      "value": "kategori",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

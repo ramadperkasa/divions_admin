@@ -1,0 +1,33 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Logo",
+      "value": "cover_image",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Kategori",
+      "value": "brand_kategori_id",
+      "align": "left"
+    },
+    {
+      "text": "Nama Produk",
+      "value": "nama_brand",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

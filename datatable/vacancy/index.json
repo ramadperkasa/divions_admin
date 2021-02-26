@@ -1,0 +1,53 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Cover",
+      "value": "cover_image",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Judul",
+      "value": "judul",
+      "align": "left"
+    },
+    {
+      "text": "Kategori",
+      "value": "kategori_sub_vacancy_id",
+      "align": "left"
+    },
+    {
+      "text": "Penyelenggara",
+      "value": "brand_id",
+      "align": "left"
+    },
+    {
+      "text": "Publikasi",
+      "value": "tgl_publikasi",
+      "align": "left"
+    },
+    {
+      "text": "Oleh",
+      "value": "posted_by",
+      "align": "left"
+    },
+    {
+      "text": "Kedaluarsa",
+      "value": "tgl_expired",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

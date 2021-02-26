@@ -1,0 +1,27 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Jam Mulai",
+      "value": "jam_mulai",
+      "align": "left"
+    },
+    {
+      "text": "Jam Selesai",
+      "value": "jam_selesai",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

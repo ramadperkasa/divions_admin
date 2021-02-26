@@ -1,0 +1,55 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Cover",
+      "value": "cover_image",
+      "align": "left",
+      "sortable": false,
+      "width": "40px"
+    },
+    {
+      "text": "Judul",
+      "value": "judul",
+      "align": "left",
+      "width": "200px"
+    },
+    {
+      "text": "Kategori",
+      "value": "id_kategori",
+      "align": "left",
+      "width": "110px"
+    },
+    {
+      "text": "Publikasi",
+      "value": "published_at",
+      "align": "left",
+      "width": "110px"
+    },
+    {
+      "text": "Oleh",
+      "value": "posted_by",
+      "align": "left",
+      "width": "80px"
+    },
+    {
+      "text": "View",
+      "value": "total_view",
+      "align": "left",
+      "width": "80px"
+    },
+
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

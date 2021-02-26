@@ -1,0 +1,8 @@
+1. Perubahan pada <create> di pages/berita/index.vue
+2. Penambahan dan perubahan pada watch di menu/sub/index.vue
+3. Title di pages/Quotes/index.vue
+4. component/Select Image di else tambah kondisi $attrs.value == true
+5. type_img component/action tambah item.type_img 
+6. dan perubahan database jadi image_id
+
+7. Penambahan library intervention image untuk membuat thumbnail

@@ -1,0 +1,47 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Nama Inventaris",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Jenis",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Jumlah",
+      "value": "jumlah",
+      "align": "left"
+    },
+    {
+      "text": "Satuan",
+      "value": "satuan",
+      "align": "left"
+    },
+    {
+      "text": "Kondisi",
+      "value": "kondisi",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

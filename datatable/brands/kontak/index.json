@@ -1,0 +1,45 @@
+{
+  "headers": [{
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Nama",
+      "value": "nama",
+      "width": "10%",
+      "align": "left"
+    },
+    {
+      "text": "Nama Kontak",
+      "value": "isi",
+      "width": "20%",
+      "align": "left"
+    },
+    {
+      "text": "URL",
+      "value": "url",
+      "width": "30%",
+      "align": "left"
+    },
+    {
+      "text": "Jenis Kontak",
+      "value": "jenis",
+      "width": "15%",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

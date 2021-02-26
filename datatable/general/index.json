@@ -1,0 +1,42 @@
+{
+    "headers": [{
+        "text": "#",
+        "align": "left",
+        "width": 15,
+        "sortable": false,
+        "value": "no"
+      },
+      {
+        "text": "Foto",
+        "value": "cover_image",
+        "align": "left"
+      },
+      {
+        "text": "Nama Investor",
+        "value": "investor_name",
+        "align": "left"
+      },
+      {
+        "text": "URL",
+        "value": "url",
+        "align": "left"
+      },
+      {
+        "text": "Disembunyikan",
+        "value": "ishide",
+        "align": "center"
+      },
+      {
+        "text": "Urutkan",
+        "value": "reorder",
+        "align": "center"
+      },
+      {
+        "text": "Action",
+        "value": "action",
+        "sortable": false,
+        "width": "10%"
+      }
+    ]
+  }
+  

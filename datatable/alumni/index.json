@@ -1,0 +1,33 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+
+    {
+      "text": "Nama",
+      "value": "nama",
+      "align": "left"
+    },
+    {
+      "text": "Tahun",
+      "value": "tahun",
+      "align": "left"
+    },
+    {
+      "text": "Pekerjaan",
+      "value": "pekerjaan",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

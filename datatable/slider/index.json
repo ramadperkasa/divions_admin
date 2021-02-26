@@ -1,0 +1,38 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Cover",
+      "value": "image_url",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Judul",
+      "value": "title",
+      "align": "left"
+    },
+    {
+      "text": "Jenis",
+      "value": "tipe_link",
+      "align": "left"
+    },
+    {
+      "text": "Urutkan",
+      "value": "reorder",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

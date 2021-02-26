@@ -1,0 +1,51 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Foto",
+      "value": "foto",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Nama",
+      "value": "nama",
+      "align": "left",
+      "sortable": false
+    },
+    {
+      "text": "Email",
+      "value": "email",
+      "align": "center",
+      "sortable": false
+    },
+    {
+      "text": "Nilai",
+      "value": "rated_nilai",
+      "align": "center"
+    },
+    {
+      "text": "Ulasan",
+      "value": "rated_deskripsi",
+      "align": "left"
+    },
+
+    {
+      "text": "Tanggal",
+      "value": "updated_at",
+      "align": "left"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}

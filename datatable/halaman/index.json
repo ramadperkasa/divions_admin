@@ -1,0 +1,37 @@
+{
+  "headers": [
+    {
+      "text": "#",
+      "align": "left",
+      "width": 15,
+      "sortable": false,
+      "value": "no"
+    },
+    {
+      "text": "Judul",
+      "value": "judul",
+      "align": "left"
+    },
+    {
+      "text": "Meta Tag",
+      "value": "meta_tag",
+      "align": "left"
+    },
+    {
+      "text": "Dilihat",
+      "value": "total_view",
+      "align": "center"
+    },
+    {
+      "text": "Terakhir Dilihat",
+      "value": "last_view",
+      "align": "center"
+    },
+    {
+      "text": "Action",
+      "value": "action",
+      "sortable": false,
+      "width": "10%"
+    }
+  ]
+}
